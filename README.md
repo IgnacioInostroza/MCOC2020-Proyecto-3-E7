@@ -12,3 +12,14 @@ Finalmente se obtuvo la siguiente evolución térmica:
 
 ![evoluciont](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E7/main/Figure_1.png)
 
+Corte en x:
+
+![cortex](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E7/main/Corte%20en%20x.gif)
+
+Corte en y:
+
+![cortey](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E7/main/Corte%20en%20y.gif)
+
+Corte en z:
+
+![cortez](https://raw.githubusercontent.com/IgnacioInostroza/MCOC2020-Proyecto-3-E7/main/Corte%20en%20z.gif)
